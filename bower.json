@@ -1,0 +1,8 @@
+{
+  "name": "mmenu",
+  "version": "0.0.1",
+  "dependencies": {
+    "jQuery.mmenu": "5.0.3"
+  },
+  "private": true
+}
